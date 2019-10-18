@@ -1,2 +1,2 @@
 # FAFSA-Data-Science
-This project does an Analysis of FAFSA Completion Rates and Income in Maryland Schools using Python3                                           
+This project does an analysis of FAFSA completion rates and income in Maryland high schools using machine learning and plotting libraries in Python3                                           
